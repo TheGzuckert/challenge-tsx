@@ -4,6 +4,8 @@ Resolvi crair o repositorio para não perder meu progesso e para ter um backup c
 
 ## Rodando projeto:
 
+`npm install` or `npm i`
+
 `npm run dev`
 
 ## Versão do node:
