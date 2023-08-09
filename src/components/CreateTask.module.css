@@ -3,7 +3,7 @@
   position: absolute;
   width: 39.87rem;
   height: 3.3rem;
-  left: 25rem;
+  left: calc(50% - 46rem/2);
   top: 11.5rem;
   border-radius: 5px;
   resize: none;

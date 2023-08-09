@@ -15,8 +15,10 @@ export function CreateTask() {
         Criar
         <img src={plus} alt='Todo Icon'/>
       </button>
-    
-    
+
+
+      {/* <p className={styles.p}>Tarefas criadas</p> */}
+
     </article>
 
   )
