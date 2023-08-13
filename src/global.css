@@ -8,10 +8,10 @@
   --gray-700: #0D0D0D;
   --gray-800: #202024;
   --gray-900: #121214;
-  
+  --blue-400: #4EA8DE;
   --blue-500: #1E6F9F;
-
   --red-500: #F75A68;
+  --purple: #8284FA;
 }
 
 :focus {

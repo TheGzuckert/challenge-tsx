@@ -2,12 +2,14 @@
   background: var(--gray-700);
   display: flex;
   justify-content: center;
-  padding: 5rem  3rem;
+  padding: 5rem 3rem;
   margin-top: 0%;
 }
 
 .header img {
-  top: 20rem;
   width: 7.8rem;
-  height: 3rem;/* -->32 pixeels = 16x2 */
+  height: 3rem;
+  
 }
+
+/* Exemplo de como o rem é ultilizado -->32 pixeels = 16x2 */

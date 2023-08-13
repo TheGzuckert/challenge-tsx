@@ -1,13 +1,18 @@
 import { Header } from "./components/Header"
+import { CreateTask } from "./components/CreateTask"
+import { Count } from "./components/Count"
 import styles from './App.module.css'
 import './global.css'
 
 
 export function App() {
   return (
-    <div>
-      <div className={styles.wrapper}></div>
+    <article>
+      <article className={styles.wrapper}></article>
       <Header />
-      </div>
+      <CreateTask />
+      <Count />
+
+      </article>
   )
 }
