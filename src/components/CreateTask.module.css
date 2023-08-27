@@ -14,6 +14,7 @@
   top: 11.5rem;
   left: calc(50% - 46rem/2);
   position: absolute;
+  color: var(--white);
 }
 
 .button {

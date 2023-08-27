@@ -9,6 +9,7 @@
   position: absolute;
   top: 19rem;
   left: calc(50% - 46.5rem/2);
+  gap: 0.5rem
 }
 
 .tasksDone {
@@ -21,4 +22,18 @@
   position: absolute;
   top: 19rem;
   left: calc(50% - -32rem/2);
+  gap: 0.5rem;
+}
+
+.taskCount{
+  display: flex;
+  padding: 0.1rem 0.6rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: var(--gray-400);
+  color: var(--gray-200);
+  border-radius: 62.4375rem;
+  top: 1rem;
 }
