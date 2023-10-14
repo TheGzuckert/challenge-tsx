@@ -12,6 +12,6 @@ Resolvi crair o repositorio para não perder meu progesso e para ter um backup c
 
 ### Requesitos:
 
-[] - Adicioanr novas
-[] - Remover novas tasks
-[] - Marcar e demsarcar como concluido
+- [x] - Adicioanr novas
+- [x] - Remover novas tasks
+- [x] - Marcar e demsarcar como concluido
